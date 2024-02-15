@@ -1,2 +1,2 @@
 include: [".well-known"]
-exclude: ["_config.yml", ".nojekyll", "CNAME"]
+exclude: ["_config.yml", "CNAME"]
